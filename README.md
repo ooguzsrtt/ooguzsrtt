@@ -5,7 +5,7 @@
   
   Energy Engineering Student at Ankara, Gazi University
   </br>
-  Backend developer mainly writes in PHP and Node.JS
+  Backend developer mainly writing in PHP and Node.JS
   </br>
   Interested in data science with python
   </br>
