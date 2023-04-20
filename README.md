@@ -4,7 +4,8 @@
   </a>
 </p>
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ooguzsrtt&theme=dark
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ooguzsrtt&theme=default)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ooguzsrtt&count_private=true&show_icons=true&theme=transparent)
 
