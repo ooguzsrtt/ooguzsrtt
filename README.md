@@ -1,9 +1,10 @@
-
+<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ooguzsrtt&theme=github_dark)
+  </div>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,html,css,bootstrap,js,jquery,py,fortran,arduino" />
-</p>
+</div>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ooguzsrtt&theme=github_dark)
