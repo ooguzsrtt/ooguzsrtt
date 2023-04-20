@@ -10,12 +10,12 @@
   Interested in data science with python
   </br>
   Musician & composer & producer
-  <hr>
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ooguzsrtt&theme=github_dark)
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,html,css,bootstrap,js,jquery,py,fortran,arduino" />
+
   </div>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,html,css,bootstrap,js,jquery,py,fortran,arduino" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ooguzsrtt&theme=github_dark)
 </p>
 
 
