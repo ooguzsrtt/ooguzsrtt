@@ -6,4 +6,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ooguzsrtt&count_private=true&show_icons=true&theme=transparent)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ooguzsrtt&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ooguzsrtt&currStreakNum=2FD3EB&theme=dark&fire=orange&sideLabels=F00&date_format=M j[, Y])](https://git.io/streak-stats)
