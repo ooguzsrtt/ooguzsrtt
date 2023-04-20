@@ -11,7 +11,8 @@
   </br>
   Musician & composer & producer
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,html,css,bootstrap,js,jquery,py,fortran,arduino" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,html,css,bootstrap,js,jquery,py,fortran,arduino,cubase" />
+</br>
 
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ooguzsrtt&theme=github_dark)
