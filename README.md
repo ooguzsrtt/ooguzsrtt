@@ -1,5 +1,8 @@
-<div align="center">
 
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Welcome+to+My+Github+Page;Me+I+am+Oğuz+Sert;)](https://git.io/typing-svg)
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ooguzsrtt&theme=github_dark)
   </div>
 <div align="center">
