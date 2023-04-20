@@ -1,7 +1,16 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Welcome+to+My+Github+Page;Me+I+am+Oğuz+Sert;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Welcome+to+My+Github+Page;I+am+Oğuz+Sert)](https://git.io/typing-svg)
+  
+  Energy Engineering Student at Ankara, Gazi University
+  </br>
+  Backend developer mainly writes in PHP and Node.JS
+  </br>
+  Interested in data science with python
+  </br>
+  Musician & composer & producer
+  <hr>
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ooguzsrtt&theme=github_dark)
   </div>
