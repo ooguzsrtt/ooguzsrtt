@@ -8,7 +8,8 @@
 
 <div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ooguzsrtt&theme=github_dark)
-
+</div>
+<div align="center">
 
 
 
