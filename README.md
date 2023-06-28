@@ -1,16 +1,5 @@
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ooguzsrtt&theme=github_dark)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ooguzsrtt&theme=github_dark&utcOffset=8)
-
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ooguzsrtt&theme=dark&currStreakNum=2FD3EB&theme=dark&fire=red&sideLabels=F00)](https://git.io/streak-stats)
-
-
 
 
 
@@ -28,7 +17,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ooguzsrtt&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ooguzsrtt&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ooguzsrtt&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ooguzsrtt&theme=github_dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ooguzsrtt&icon=5&color=8)](https://visitcount.itsvg.in)
