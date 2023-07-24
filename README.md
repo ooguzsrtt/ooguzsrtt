@@ -6,7 +6,7 @@
 <div class="center">
 
 # 💫 About Me:
-🎓 Energy Engineering student at Ankara, Gazi University<br>👨‍💻 Backend developer mainly writing in PHP and Node.JS<br>👍 Interested in data science with python<br>🎵 Musician & composer & producer
+🎓 Energy Engineering student at Ankara, Gazi University<br>👨‍💻 Backend developer mainly writing in PHP and Node.JS<br>👍 Interested in data science with Python<br>🎵 Musician & composer & producer
 
 
 ## 🌐 Socials:
