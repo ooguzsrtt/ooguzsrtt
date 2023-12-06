@@ -10,9 +10,6 @@
 <br>
 🎙️ NEW MUSIC "TUT ELİMDEN" has released on Spotify, Apple Music, YouTube Music. CHECK NOW!!
 <br>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/13SfaQLGd8A5ef1qsJap2I?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oğuz-s-075246206/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ooguzsrtt) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ooguzsrtt)
 <br>
